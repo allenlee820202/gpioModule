@@ -6,6 +6,7 @@
 ```python
 from PIR import PIR_t
 import time
+
 PIR_t(18)  
 while(True):
   time.sleep(10)
